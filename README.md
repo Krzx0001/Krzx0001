@@ -5,9 +5,9 @@
 </p>
 
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=3cn&layout=compact&theme=dark) 
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=Krzx0001&layout=compact&theme=dark) 
 </br>
-![stats](https://github-readme-stats.vercel.app/api?username=3cn&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=Krzx0001&show_icons=true&theme=dark)
 
 # Contact
-Krzx#1337 - Discord </br>
+Krzx#0001 - Discord </br>
